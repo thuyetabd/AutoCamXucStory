@@ -1,0 +1,14 @@
+Cách cài đặt cho Android
+
+Tải termux: https://apkcombo.com/termux/com.termux/
+
+Cài đặt môi trường
+pkg install python
+pip install requests
+pip install bs4
+nó hỏi gì thì cứ nhấn Y
+
+chỉ đường dẫn đến download
+cd /sdcard/download
+mở:
+python story1.0.py
