@@ -12,3 +12,6 @@ chỉ đường dẫn đến download
 cd /sdcard/download
 mở:
 python story1.0.py
+
+mượn dự án của:
+https://github.com/whoant/react-story-facebook
