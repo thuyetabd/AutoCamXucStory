@@ -15,3 +15,5 @@ python story1.0.py
 
 mượn dự án của:
 https://github.com/whoant/react-story-facebook
+
+Hdsd: https://www.youtube.com/watch?v=XHMxGIbYK5c
