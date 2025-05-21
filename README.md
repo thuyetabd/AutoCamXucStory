@@ -3,6 +3,9 @@ Cách cài đặt cho Android
 Tải termux: https://apkcombo.com/termux/com.termux/
 
 Cài đặt môi trường
+1 lệnh cho tất cả chỉ cần nhập lệnh này thôi:
+pkg install -y python && pip install requests bs4
+--------------------------
 pkg install python
 pip install requests
 pip install bs4
